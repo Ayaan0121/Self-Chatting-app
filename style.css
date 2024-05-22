@@ -1,0 +1,80 @@
+#heading{
+    color:crimson;
+    font-size: 60px;
+    font-family:'Courier New', Courier, monospace;
+    font-weight:normal;
+}
+#lol{
+    font-size:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+    color:darkgoldenrod;
+
+}
+
+#test {
+    margin-top: 55px;
+    height: 600px;
+    width:1300px;
+    background-color:#E5E4E2;
+    border-radius:20px;
+    overflow-y: scroll;
+    border-bottom-left-radius: 0px;
+    padding-bottom:50px;
+    
+}
+
+#input12{
+height: 50px;
+width: 1202px;
+text-align: center;
+font-size: 20px;
+margin-left: 100px;
+border-bottom-left-radius: 20px;
+margin-top: 1px;
+border-color: cornflowerblue;
+
+
+
+}
+#lol1234{
+    float: right;
+    margin-right:15px;
+    border-bottom-right-radius: 20px;
+    width:100px;
+    height:50 ;
+    background-color:#CBC3E3;
+    margin-top: 1px;
+
+    
+}
+#hellowasd{
+    display: flex;
+}
+
+
+.blass{
+
+    height: fit-content;
+    width:90%;
+    text-align: left;
+    font-size: 20px;
+    float: left;
+    margin-top: 40px;
+    background-color: white;
+    margin-left: 5px;
+    padding-left: 20px;
+    border-radius: 5px;
+    padding-top: 5px;
+    
+    word-wrap: 100px;
+    padding-right: 20px;
+    word-wrap:break-word;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+}
+
+#forText{
+    margin-bottom: 50px;
+}
